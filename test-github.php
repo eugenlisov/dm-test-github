@@ -2,7 +2,7 @@
 /*
 Plugin Name: DM Test Github Plugin
 Description: Acum am pus o descriere de oameni civilizati
-Version:     1.0.0.2
+Version:     1.0.0.4
 Author:      Eugen Lisov
 Author URI:  http://www.devmaverick.com/
 GitHub Plugin URI: eugenlisov/dm-test-github
