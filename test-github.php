@@ -9,7 +9,7 @@ GitHub Plugin URI: eugenlisov/dm-test-github
 GitHub Plugin URI: https://github.com/eugenlisov/dm-test-github
 
 */
-*
+
 
 function create_something() {
   echo 'Nope, the function needs to so something else now';
