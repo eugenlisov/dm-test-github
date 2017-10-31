@@ -9,5 +9,10 @@ GitHub Plugin URI: eugenlisov/dm-test-github
 GitHub Plugin URI: https://github.com/eugenlisov/dm-test-github
 
 */
+*
+
+function create_something() {
+  echo 'Create something';
+}
 
 ?>
